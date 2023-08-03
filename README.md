@@ -3,7 +3,5 @@ Recovers JPEGs from a forensic image - recovers deleted images from a memory car
 
 USAGE:
 * On linux
-- ./recover IMAGE
-where IMAGE is the name of the forensic image.
-Eg.
-$ ./recover card.raw
+- ./recover IMAGE  (where IMAGE is the name of the forensic image.
+Eg. $ ./recover card.raw)
